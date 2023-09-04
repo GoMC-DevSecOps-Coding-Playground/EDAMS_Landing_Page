@@ -67,107 +67,109 @@
 
 -->
 
-<!DOCTYPE html>  <!--  Main JS File -->
+<!DOCTYPE html>
+<!--  Main JS File -->
 
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
   <title>EDAMS :: Government Of Makueni County</title>
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
-  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="img/favicon.png" rel="icon" />
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
 
   <!-- Vendor CSS Files -->
-  <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="vendor/aos/aos.css" rel="stylesheet">
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="vendor/animate.css/animate.min.css" rel="stylesheet" />
+  <link href="vendor/aos/aos.css" rel="stylesheet" />
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+  <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+  <link href="vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+  <link href="vendor/remixicon/remixicon.css" rel="stylesheet" />
+  <link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
   <!-- Template Main CSS File -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet" />
 </head>
 
 <body>
-
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
+      <h1 class="logo me-auto">
+        <a href=""><span>Com</span>pany</a>
+      </h1>
 
-      <h1 class="logo me-auto"><a href=""><span>Com</span>pany</a></h1>
-     
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a href="" class="active">Home</a></li>
           <li><a href="http://edams.makueni.go.ke/news">Downloads</a></li>
           <li><a href="http://edams.makueni.go.ke/faqs">FAQ</a></li>
-          <li><a href="http://edams.makueni.go.ke/contactus">Contact Us</a></li>
+          <li>
+            <a href="http://edams.makueni.go.ke/contactus">Contact Us</a>
+          </li>
           <li><a href="http://edams.makueni.go.ke/login">Login</a></li>
           <li><a href="http://edams.makueni.go.ke/signup">Register</a></li>
-
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-      <div class="header-social-links d-flex">
-        <a href="#" class="twitter"><i class="bu bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bu bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bu bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bu bi-linkedin"></i></i></a>
-      </div>
-
+      </nav>
+      <!-- .navbar -->
     </div>
-  </header><!-- End Header -->
+  </header>
+  <!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
+  <!-- ======= Sliders ======= -->
   <section id="hero">
     <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
-
       <div class="carousel-inner" role="listbox">
-
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="carousel-container">
-            <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2>Welcome to <span>Company</span></h2>
-              <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            <div class="carousel-content animate__animated animate__fadeInUp text-center">
+              <h2 class="">Government Of<span> Makueni County </span></h2>
+              <p>Electronic Development Applications Management System</p>
+              <div class="text-center">
+                <a href="http://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
+                <a href="http://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
+              </div>
             </div>
           </div>
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
           <div class="carousel-container">
-            <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2>Lorem Ipsum Dolor</h2>
-              <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            <div class="carousel-content animate__animated animate__fadeInUp text-center">
+              <h2 class="">Government Of<span> Makueni County </span></h2>
+              <p>Electronic Development Applications Management System</p>
+              <div class="text-center">
+                <a href="http://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
+                <a href="http://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
+              </div>
             </div>
           </div>
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
           <div class="carousel-container">
-            <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2>Sequi ea ut et est quaerat</h2>
-              <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            <div class="carousel-content animate__animated animate__fadeInUp text-center">
+              <h2 class="">Government Of<span> Makueni County </span></h2>
+              <p>Electronic Development Applications Management System</p>
+              <div class="text-center">
+                <a href="http://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
+                <a href="http://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
+              </div>
             </div>
           </div>
         </div>
-
       </div>
 
       <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
@@ -179,16 +181,14 @@
       </a>
 
       <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
-
     </div>
-  </section><!-- End Hero -->
+  </section>
+  <!-- End Hero -->
 
   <main id="main">
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
-
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
@@ -199,12 +199,15 @@
                 <i class="bx bxl-dribbble"></i>
               </div>
               <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p>
+                Voluptatum deleniti atque corrupti quos dolores et quas
+                molestias excepturi
+              </p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box iconbox-orange ">
+            <div class="icon-box iconbox-orange">
               <div class="icon">
                 <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
                   <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,582.0697525312426C382.5290701553225,586.8405444964366,449.9789794690241,525.3245884688669,502.5850820975895,461.55621195738473C556.606425686781,396.0723002908107,615.8543463187945,314.28637112970534,586.6730223649479,234.56875336149918C558.9533121215079,158.8439757836574,454.9685369536778,164.00468322053177,381.49747125262974,130.76875717737553C312.15926192815925,99.40240125094834,248.97055460311594,18.661163978235184,179.8680185752513,50.54337015887873C110.5421016452524,82.52863877960104,119.82277516462835,180.83849132639028,109.12597500060166,256.43424936330496C100.08760227029461,320.3096726198365,92.17705696193138,384.0621239912766,124.79988738764834,439.7174275375508C164.83382741302287,508.01625554203684,220.96474134820875,577.5009287672846,300,582.0697525312426"></path>
@@ -212,7 +215,10 @@
                 <i class="bx bx-file"></i>
               </div>
               <h4><a href="">Sed Perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>
+                Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore
+              </p>
             </div>
           </div>
 
@@ -225,7 +231,10 @@
                 <i class="bx bx-tachometer"></i>
               </div>
               <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa
+                qui officia
+              </p>
             </div>
           </div>
 
@@ -238,7 +247,10 @@
                 <i class="bx bx-layer"></i>
               </div>
               <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p>
+                At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis
+              </p>
             </div>
           </div>
 
@@ -251,7 +263,10 @@
                 <i class="bx bx-slideshow"></i>
               </div>
               <h4><a href="">Dele Cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <p>
+                Quis consequatur saepe eligendi voluptatem consequatur dolor
+                consequuntur
+              </p>
             </div>
           </div>
 
@@ -264,27 +279,30 @@
                 <i class="bx bx-arch"></i>
               </div>
               <h4><a href="">Divera Don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <p>
+                Modi nostrum vel laborum. Porro fugit error sit minus sapiente
+                sit aspernatur
+              </p>
             </div>
           </div>
-
         </div>
-
       </div>
-    </section><!-- End Services Section -->
-
-  </main><!-- End #main -->
+    </section>
+    <!-- End Services Section -->
+  </main>
+  <!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
     <div class="container d-md-flex py-4">
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-            &copy; 
+          &copy;
           <script>
-            document.write(new Date().getFullYear())
-          </script> Powered By <strong><a target="_blank" href="https://makueni.go.ke">Government Of Makueni County</a></strong>
+            document.write(new Date().getFullYear());
+          </script>
+          Powered By
+          <strong><a target="_blank" href="https://makueni.go.ke">Government Of Makueni County</a></strong>
         </div>
       </div>
     </div>
@@ -303,7 +321,6 @@
 
   <!--  Main JS File -->
   <script src="js/main.js"></script>
-
 </body>
 
 </html>
