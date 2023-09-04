@@ -76,12 +76,12 @@ body {
 }
 
 a {
-  color: #004702;
+  color: #1bbd36;
   text-decoration: none;
 }
 
 a:hover {
-  color: #004702;
+  color: #1bbd36;
   text-decoration: none;
 }
 
@@ -467,7 +467,7 @@ h6 {
   background: rgba(4, 4, 4, 0.7);
   padding: 20px;
   color: #fff;
-  border-top: 5px solid #044c06;
+  border-top: 5px solid #1bbd36;
 }
 
 #hero .carousel-content h2 {
@@ -490,11 +490,11 @@ h6 {
   margin: 10px;
   color: #fff;
   animation-delay: 0.8s;
-  border: 2px solid #044c06;
+  border: 2px solid #1bbd36;
 }
 
 #hero .btn-get-started:hover {
-  background: #044c06;
+  background: #1bbd36;
   color: #fff;
   text-decoration: none;
 }
