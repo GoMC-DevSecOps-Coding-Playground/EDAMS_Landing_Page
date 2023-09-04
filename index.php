@@ -76,11 +76,11 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-  <title>EDAMS :: Government Of Makueni County</title>
+  <title>EDAMS - Government Of Makueni County</title>
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon" />
-  <link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="images/favicon.ico" rel="icon" />
+  <link href="images/favicon.ico" rel="apple-touch-icon" />
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
@@ -104,19 +104,21 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
       <h1 class="logo me-auto">
-        <a href=""><span>Com</span>pany</a>
+        <a href="https://edams.makueni.go.ke" class="logo me-auto me-lg-0" class="img-fluid">
+          <img src="images/logo.png" alt="" class="img-fluid">
+        </a>
       </h1>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a href="" class="active">Home</a></li>
-          <li><a href="http://edams.makueni.go.ke/news">Downloads</a></li>
-          <li><a href="http://edams.makueni.go.ke/faqs">FAQ</a></li>
+          <li><a href="https://edams.makueni.go.ke/news">Downloads</a></li>
+          <li><a href="https://edams.makueni.go.ke/faqs">FAQ</a></li>
           <li>
-            <a href="http://edams.makueni.go.ke/contactus">Contact Us</a>
+            <a href="https://edams.makueni.go.ke/contactus">Contact Us</a>
           </li>
-          <li><a href="http://edams.makueni.go.ke/login">Login</a></li>
-          <li><a href="http://edams.makueni.go.ke/signup">Register</a></li>
+          <li><a href="https://edams.makueni.go.ke/login">Login</a></li>
+          <li><a href="https://edams.makueni.go.ke/signup">Register</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -136,8 +138,8 @@
               <h2 class="">Government Of<span> Makueni County </span></h2>
               <p>Electronic Development Applications Management System</p>
               <div class="text-center">
-                <a href="http://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
-                <a href="http://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
+                <a href="https://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
+                <a href="https://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
               </div>
             </div>
           </div>
@@ -150,8 +152,8 @@
               <h2 class="">Government Of<span> Makueni County </span></h2>
               <p>Electronic Development Applications Management System</p>
               <div class="text-center">
-                <a href="http://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
-                <a href="http://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
+                <a href="https://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
+                <a href="https://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
               </div>
             </div>
           </div>
@@ -164,8 +166,8 @@
               <h2 class="">Government Of<span> Makueni County </span></h2>
               <p>Electronic Development Applications Management System</p>
               <div class="text-center">
-                <a href="http://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
-                <a href="http://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
+                <a href="https://edams.makueni.go.ke/login" class="btn-get-started">Login</a>
+                <a href="https://edams.makueni.go.ke/signup" class="btn-get-started">Register</a>
               </div>
             </div>
           </div>
